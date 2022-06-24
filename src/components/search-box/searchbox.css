@@ -1,0 +1,15 @@
+input {
+  padding: 10px;
+  margin: 0px 0 50px;
+  outline: 0;
+  transition: all 0.3s;
+}
+input:focus {
+  padding: 10px 30px;
+}
+h1 {
+  color: #2b2d42;
+  font-size: 4rem;
+  margin-top: 0;
+  padding-top: 20px;
+}
